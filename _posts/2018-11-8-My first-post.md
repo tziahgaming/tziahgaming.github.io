@@ -23,7 +23,7 @@ Here is were you can get the best 2k rating for now and back then. The best team
 ##  The worst 2k teams to play 
 
 These are the worst team to play with if your a pro at the games 
-)https://fadeawayworld.net/2018/09/02/top-10-worst-starting-lineups-in-nba-2k19/)
+[here](https://fadeawayworld.net/2018/09/02/top-10-worst-starting-lineups-in-nba-2k19/)
 
 
 
