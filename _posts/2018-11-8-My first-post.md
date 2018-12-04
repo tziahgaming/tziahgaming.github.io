@@ -3,8 +3,27 @@ layout: post
 title: My First Post
 ---
 
-Hi!
+This is Sports gaming 
 
 ![gaming image](/images/gaming.jpeg)
 
-The easiest way to make your first post is to edit this one. Go into /_posts/ and update the Hello World markdown file. For more instructions head over to the [Jekyll Now repository](https://github.com/barryclark/jekyll-now) on GitHub.
+
+---
+layout: post
+Title: Rating
+---
+
+![image title](/images/originals-yung-1.jpg)
+
+## Best rating in all sports games
+
+Here is were you can get the best 2k rating for now and back then. The best teams and how you can use them to win click here for everything
+[here](https://www.2kratings.com/).
+
+##  The worst 2k teams to play 
+
+These are the worst team to play with if your a pro at the games 
+)https://fadeawayworld.net/2018/09/02/top-10-worst-starting-lineups-in-nba-2k19/)
+
+
+
