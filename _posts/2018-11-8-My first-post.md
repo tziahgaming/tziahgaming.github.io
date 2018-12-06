@@ -1,6 +1,6 @@
 ---
 layout: post
-title: My First Post
+title: 2k gaming
 ---
 
 This is Sports gaming 
