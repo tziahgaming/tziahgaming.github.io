@@ -5,7 +5,7 @@ title: 2k gaming
 
 This is Sports gaming 
 
-![gaming image](/images/gaming.jpeg)
+![lebron image](/images/lebron.jpg)
 
 
 ---
