@@ -2,18 +2,9 @@
 layout: post
 title: 2k gaming
 ---
-
-This is Sports gaming 
-
 ![lebron image](/images/lebron.jpg)
 
-
----
-layout: post
-Title: Rating
----
-
-![image title](/images/originals-yung-1.jpg)
+This is Sports gaming 
 
 ## Best rating in all sports games
 
